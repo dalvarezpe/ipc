@@ -1,0 +1,410 @@
+id,producto,ponderacion,categoria,head_cat,categoria_name
+1,Alimentos y Bebidas No Alcohólicas,27.06,1,1,Alimentos y Bebidas No Alcohólicas
+1110101,Pan corriente,1.94,1,0,Alimentos y Bebidas No Alcohólicas
+1110102,Pan especial,0.23,1,0,Alimentos y Bebidas No Alcohólicas
+1110103,Galletas,0.49,1,0,Alimentos y Bebidas No Alcohólicas
+1110201,Panetón,0.08,1,0,Alimentos y Bebidas No Alcohólicas
+1110203,Torta,0.20,1,0,Alimentos y Bebidas No Alcohólicas
+1110204,Empanada al horno,0.19,1,0,Alimentos y Bebidas No Alcohólicas
+1110213,Queques,0.04,1,0,Alimentos y Bebidas No Alcohólicas
+1110214,Llauchas,0.03,1,0,Alimentos y Bebidas No Alcohólicas
+1110216,Cuñapé,0.06,1,0,Alimentos y Bebidas No Alcohólicas
+1110221,Productos de panadería y pastelería frita,0.10,1,0,Alimentos y Bebidas No Alcohólicas
+1110301,Arroz,0.75,1,0,Alimentos y Bebidas No Alcohólicas
+1110302,Maíz,0.04,1,0,Alimentos y Bebidas No Alcohólicas
+1110306,Quinua,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1110401,Harina de trigo,0.14,1,0,Alimentos y Bebidas No Alcohólicas
+1110502,Preparados obtenidos por hinchamiento. tostado o extrusión de cereales,0.23,1,0,Alimentos y Bebidas No Alcohólicas
+1110505,Avena procesada,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1110601,Fideo,0.49,1,0,Alimentos y Bebidas No Alcohólicas
+1120101,Carne de res con hueso,1.23,1,0,Alimentos y Bebidas No Alcohólicas
+1120102,Carne de res sin hueso,4.12,1,0,Alimentos y Bebidas No Alcohólicas
+1120104,Hueso de res,0.14,1,0,Alimentos y Bebidas No Alcohólicas
+1120201,Carne fresca de ganado porcino entero o cortes especiales,0.18,1,0,Alimentos y Bebidas No Alcohólicas
+1120301,Carne fresca de ganado ovino por piezas (cordero),0.07,1,0,Alimentos y Bebidas No Alcohólicas
+1120501,Carne de llama,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1120601,Carne de pollo,2.08,1,0,Alimentos y Bebidas No Alcohólicas
+1120801,Hígado/riñón/corazón/pulmón,0.14,1,0,Alimentos y Bebidas No Alcohólicas
+1120803,Panza/libro/tripas,0.02,1,0,Alimentos y Bebidas No Alcohólicas
+1120899,Otros despojos comestibles de animales,0.05,1,0,Alimentos y Bebidas No Alcohólicas
+1120901,Carnes secas/charque/chalona,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1121001,Carnes frías/mortadela,0.10,1,0,Alimentos y Bebidas No Alcohólicas
+1121004,Chorizos,0.07,1,0,Alimentos y Bebidas No Alcohólicas
+1121007,Salchichas,0.11,1,0,Alimentos y Bebidas No Alcohólicas
+1121010,Picadillo,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1121101,Milanesas/ hamburguesas y silpanchos preparados,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1130101,Pescados frescos,0.23,1,0,Alimentos y Bebidas No Alcohólicas
+1130105,Pescados y alimentos marinos en conserva frescos o procesados,0.08,1,0,Alimentos y Bebidas No Alcohólicas
+1140101,Leche natural,0.05,1,0,Alimentos y Bebidas No Alcohólicas
+1140102,Leche pasteurizada,0.99,1,0,Alimentos y Bebidas No Alcohólicas
+1140103,Leche en polvo,0.35,1,0,Alimentos y Bebidas No Alcohólicas
+1140104,Leche evaporada,0.03,1,0,Alimentos y Bebidas No Alcohólicas
+1140107,Yogur,0.18,1,0,Alimentos y Bebidas No Alcohólicas
+1140108,Otros productos lácteos,0.18,1,0,Alimentos y Bebidas No Alcohólicas
+1140201,Quesos y cuajada,0.57,1,0,Alimentos y Bebidas No Alcohólicas
+1140301,Productos lácteos no de leche de vaca,0.04,1,0,Alimentos y Bebidas No Alcohólicas
+1140401,Huevos y derivados preparados con huevos,0.53,1,0,Alimentos y Bebidas No Alcohólicas
+1150101,Aceite comestible/aceite a granel,0.36,1,0,Alimentos y Bebidas No Alcohólicas
+1150201,Mantequilla y margarina,0.26,1,0,Alimentos y Bebidas No Alcohólicas
+1160121,Durazno,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1160141,Limón,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1160145,Mandarina,0.07,1,0,Alimentos y Bebidas No Alcohólicas
+1160147,Manzana,0.40,1,0,Alimentos y Bebidas No Alcohólicas
+1160155,Naranja,0.05,1,0,Alimentos y Bebidas No Alcohólicas
+1160162,Palta,0.09,1,0,Alimentos y Bebidas No Alcohólicas
+1160163,Papaya,0.06,1,0,Alimentos y Bebidas No Alcohólicas
+1160164,Pera,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1160166,Piña,0.03,1,0,Alimentos y Bebidas No Alcohólicas
+1160169,Plátano/guineo/banano/banana,0.62,1,0,Alimentos y Bebidas No Alcohólicas
+1160170,Sandía,0.12,1,0,Alimentos y Bebidas No Alcohólicas
+1160176,Uva,0.19,1,0,Alimentos y Bebidas No Alcohólicas
+1160185,Plátano/postre para cocinar,0.17,1,0,Alimentos y Bebidas No Alcohólicas
+1170101,Acelga,0.02,1,0,Alimentos y Bebidas No Alcohólicas
+1170102,Achojcha,0.02,1,0,Alimentos y Bebidas No Alcohólicas
+1170103,Ají,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1170104,Ajo,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1170107,Apio,0.03,1,0,Alimentos y Bebidas No Alcohólicas
+1170110,Betarraga/remolacha,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1170111,Brócoli,0.02,1,0,Alimentos y Bebidas No Alcohólicas
+1170112,Cebolla,0.44,1,0,Alimentos y Bebidas No Alcohólicas
+1170113,Choclo,0.10,1,0,Alimentos y Bebidas No Alcohólicas
+1170117,Espinaca,0.02,1,0,Alimentos y Bebidas No Alcohólicas
+1170120,Lechuga,0.11,1,0,Alimentos y Bebidas No Alcohólicas
+1170121,Locoto,0.05,1,0,Alimentos y Bebidas No Alcohólicas
+1170122,Nabo,0.03,1,0,Alimentos y Bebidas No Alcohólicas
+1170123,Pepino y pepinillo,0.04,1,0,Alimentos y Bebidas No Alcohólicas
+1170124,Perejil,0.03,1,0,Alimentos y Bebidas No Alcohólicas
+1170125,Pimentón/morrón,0.10,1,0,Alimentos y Bebidas No Alcohólicas
+1170128,Repollo,0.02,1,0,Alimentos y Bebidas No Alcohólicas
+1170129,Tomate,0.53,1,0,Alimentos y Bebidas No Alcohólicas
+1170132,Zanahoria,0.34,1,0,Alimentos y Bebidas No Alcohólicas
+1170133,Zapallo/joco/ancu/iscariote,0.09,1,0,Alimentos y Bebidas No Alcohólicas
+1170134,Arveja verde,0.20,1,0,Alimentos y Bebidas No Alcohólicas
+1170135,Haba verde,0.16,1,0,Alimentos y Bebidas No Alcohólicas
+1170136,Vainita,0.07,1,0,Alimentos y Bebidas No Alcohólicas
+1170137,Conjunto de verduras picadas/surtido de legumbres en bolsa,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1170201,Papa,0.69,1,0,Alimentos y Bebidas No Alcohólicas
+1170208,Yuca/mandioca,0.04,1,0,Alimentos y Bebidas No Alcohólicas
+1170301,Frejol/poroto,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1170303,Lenteja,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1170401,Tubérculos secos,0.05,1,0,Alimentos y Bebidas No Alcohólicas
+1170402,Tubérculos en conserva,0.07,1,0,Alimentos y Bebidas No Alcohólicas
+1170404,Otros productos a base de tubérculos,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1170502,Maní,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1180101,Azúcar,0.37,1,0,Alimentos y Bebidas No Alcohólicas
+1180201,Mermeladas y dulces,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+1180401,Chocolates,0.06,1,0,Alimentos y Bebidas No Alcohólicas
+1180402,Caramelos/dulces,0.06,1,0,Alimentos y Bebidas No Alcohólicas
+1180403,Goma de mascar/chicle,0.04,1,0,Alimentos y Bebidas No Alcohólicas
+1180502,Helado,0.35,1,0,Alimentos y Bebidas No Alcohólicas
+1190101,Sal,0.05,1,0,Alimentos y Bebidas No Alcohólicas
+1190102,Especias. salsas. condimentos. aderezos y similares,0.41,1,0,Alimentos y Bebidas No Alcohólicas
+1190202,Extractos de jugos de carne. sopas y caldos,0.21,1,0,Alimentos y Bebidas No Alcohólicas
+1190203,Concentrados artificiales para preparar bebidas saborizadas,0.02,1,0,Alimentos y Bebidas No Alcohólicas
+1199901,Otros productos alimenticios n.e.p.,0.05,1,0,Alimentos y Bebidas No Alcohólicas
+1210101,Café,0.15,1,0,Alimentos y Bebidas No Alcohólicas
+1210201,Té,0.04,1,0,Alimentos y Bebidas No Alcohólicas
+1210203,Hojas de coca para mate,0.04,1,0,Alimentos y Bebidas No Alcohólicas
+1210288,Hierbas naturales (coca. manzanilla. eucalipto. boldo. cedrón. etc.),0.02,1,0,Alimentos y Bebidas No Alcohólicas
+1210302,Polvos a base de chocolate (alimentos achocolatados),0.10,1,0,Alimentos y Bebidas No Alcohólicas
+1220102,Agua natural envasada,0.26,1,0,Alimentos y Bebidas No Alcohólicas
+1220201,Bebidas gaseosas,2.05,1,0,Alimentos y Bebidas No Alcohólicas
+1220301,Jugos de fruta envasados,0.31,1,0,Alimentos y Bebidas No Alcohólicas
+1220401,Polvos para preparar refrescos o jugos,0.00,1,0,Alimentos y Bebidas No Alcohólicas
+1220501,Bebidas energizantes y deportivas,0.08,1,0,Alimentos y Bebidas No Alcohólicas
+1220601,Otras bebidas no alcohólicas,0.01,1,0,Alimentos y Bebidas No Alcohólicas
+2,Bebidas Alcohólicas y Tabaco, 0.88,2,1,Bebidas Alcohólicas y Tabaco
+2110102,Singani,0.01,2,0,Bebidas Alcohólicas y Tabaco
+2110103,Whisky,0.02,2,0,Bebidas Alcohólicas y Tabaco
+2110113,Aperitivos a base de bebidas destiladas,0.01,2,0,Bebidas Alcohólicas y Tabaco
+2120101,Vino,0.09,2,0,Bebidas Alcohólicas y Tabaco
+2120102,Champagne/sidra,0.01,2,0,Bebidas Alcohólicas y Tabaco
+2130101,Cerveza,0.65,2,0,Bebidas Alcohólicas y Tabaco
+2200101,Cigarrillos,0.09,2,0,Bebidas Alcohólicas y Tabaco
+3,Prendas de Vestir y Calzado,7.56,3,1,Prendas de Vestir y Calzado
+3110101,Telas para confeccionar prendas de vestir,0.03,3,0,Prendas de Vestir y Calzado
+3120101,Chompas/jerseys/suéteres,0.24,3,0,Prendas de Vestir y Calzado
+3120102,Poleras y camisetas de vestir,0.44,3,0,Prendas de Vestir y Calzado
+3120103,Abrigos/ impermeables/ chaquetones,0.04,3,0,Prendas de Vestir y Calzado
+3120104,Trajes y ternos,0.26,3,0,Prendas de Vestir y Calzado
+3120105,Conjuntos de piezas,0.00,3,0,Prendas de Vestir y Calzado
+3120106,Sacos/chaqueta (tela. paño),0.00,3,0,Prendas de Vestir y Calzado
+3120107,Pantalones jeans,0.98,3,0,Prendas de Vestir y Calzado
+3120108,Vestidos,0.18,3,0,Prendas de Vestir y Calzado
+3120109,Faldas/faldas-pantalón,0.05,3,0,Prendas de Vestir y Calzado
+3120110,Camisas,0.25,3,0,Prendas de Vestir y Calzado
+3120111,Blusas/camisas,0.25,3,0,Prendas de Vestir y Calzado
+3120112,Prendas de vestir de cuero,0.04,3,0,Prendas de Vestir y Calzado
+3120114,Manta/mantilla de vestir,0.09,3,0,Prendas de Vestir y Calzado
+3120116,Uniformes escolares,0.20,3,0,Prendas de Vestir y Calzado
+3120119,Chamarra,0.34,3,0,Prendas de Vestir y Calzado
+3120122,Calza de vestir,0.08,3,0,Prendas de Vestir y Calzado
+3120123,Confección de prendas de vestir a medida,0.04,3,0,Prendas de Vestir y Calzado
+3120129,Polleras,0.18,3,0,Prendas de Vestir y Calzado
+3120130,Pantalones de tela,0.20,3,0,Prendas de Vestir y Calzado
+3120201,Conjunto de buzo deportivo,0.32,3,0,Prendas de Vestir y Calzado
+3120202,Buzo o chaqueta deportiva suelta,0.05,3,0,Prendas de Vestir y Calzado
+3120203,Pantalón corto (short deportivo),0.02,3,0,Prendas de Vestir y Calzado
+3120204,Polera deportiva,0.02,3,0,Prendas de Vestir y Calzado
+3120301,Medias,0.01,3,0,Prendas de Vestir y Calzado
+3120305,Brasier/sostén,0.14,3,0,Prendas de Vestir y Calzado
+3120306,Combinaciones/enaguas,0.03,3,0,Prendas de Vestir y Calzado
+3120388,Calzoncillo/calzón (hombre/mujer),0.25,3,0,Prendas de Vestir y Calzado
+3120389,Calzoncillo/calzón (niño/niña),0.06,3,0,Prendas de Vestir y Calzado
+3120390,Calcetines/medias/sockets (hombre/mujer),0.12,3,0,Prendas de Vestir y Calzado
+3120391,Calcetines/medias/sockets (niño/niña),0.04,3,0,Prendas de Vestir y Calzado
+3120402,Camisones y pijamas,0.02,3,0,Prendas de Vestir y Calzado
+3120501,Prendas de vestir para bebé,0.04,3,0,Prendas de Vestir y Calzado
+3130101,Accesorios del vestir,0.06,3,0,Prendas de Vestir y Calzado
+3130102,Sombreros y gorros de todo tipo,0.07,3,0,Prendas de Vestir y Calzado
+3130201,Otros artículos relacionados con la confección de prendas de vestir,0.03,3,0,Prendas de Vestir y Calzado
+3140301,Alquiler de prendas de vestir,0.03,3,0,Prendas de Vestir y Calzado
+3210101,Calzados y sandalias de vestir para adultos,1.01,3,0,Prendas de Vestir y Calzado
+3210102,Calzados y sandalias de vestir para niños y bebés,0.32,3,0,Prendas de Vestir y Calzado
+3210103,Calzados deportivos,0.76,3,0,Prendas de Vestir y Calzado
+3210104,Otros calzados y artículos análogos,0.25,3,0,Prendas de Vestir y Calzado
+3220101,Reparación de calzados,0.01,3,0,Prendas de Vestir y Calzado
+4,Vivienda y Servicios Básicos,8.56,4,1,Vivienda y Servicios Básicos
+4110101,Alquiler de la vivienda,3.09,4,0,Vivienda y Servicios Básicos
+4310104,Cemento gris portland,0.33,4,0,Vivienda y Servicios Básicos
+4310106,Vidrio cristal para ventana,0.06,4,0,Vivienda y Servicios Básicos
+4310110,Pintura,0.03,4,0,Vivienda y Servicios Básicos
+4310114,Cerámica/porcelanato/azulejo,0.04,4,0,Vivienda y Servicios Básicos
+4310119,Ladrillo,0.37,4,0,Vivienda y Servicios Básicos
+4310188,Cal/estuco,0.00,4,0,Vivienda y Servicios Básicos
+4320101,Servicio de albañilería,0.61,4,0,Vivienda y Servicios Básicos
+4410101,Servicio de suministro de agua potable,1.04,4,0,Vivienda y Servicios Básicos
+4440301,Gastos de administración y mantenimiento de edificios,0.07,4,0,Vivienda y Servicios Básicos
+4510101,Servicio de suministro de energía eléctrica,2.38,4,0,Vivienda y Servicios Básicos
+4520101,Servicio de suministro de gas natural por red,0.12,4,0,Vivienda y Servicios Básicos
+4520201,Gas Licuado de Petróleo (GLP) en garrafa,0.42,4,0,Vivienda y Servicios Básicos
+4520202,Garrafa de gas vacía,0.00,4,0,Vivienda y Servicios Básicos
+5,Muebles. Bienes y Servicios Domésticos,6.08,5,1,Muebles. Bienes y Servicios Domésticos
+5110106,Cama/catre/cuja,0.19,5,0,Muebles. Bienes y Servicios Domésticos
+5110112,Juego de comedor,0.07,5,0,Muebles. Bienes y Servicios Domésticos
+5110113,Juego de dormitorio,0.07,5,0,Muebles. Bienes y Servicios Domésticos
+5110114,Juego de living,0.15,5,0,Muebles. Bienes y Servicios Domésticos
+5110115,Mesa,0.02,5,0,Muebles. Bienes y Servicios Domésticos
+5110120,Ropero,0.28,5,0,Muebles. Bienes y Servicios Domésticos
+5110188,Peinador/cómoda,0.00,5,0,Muebles. Bienes y Servicios Domésticos
+5110190,Vitrina/estante,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5110201,Colchón,0.37,5,0,Muebles. Bienes y Servicios Domésticos
+5110408,Velas/cirios,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5200101,Cortinas,0.03,5,0,Muebles. Bienes y Servicios Domésticos
+5200203,Hamaca,0.00,5,0,Muebles. Bienes y Servicios Domésticos
+5200204,Juego de sábanas/sábanas,0.08,5,0,Muebles. Bienes y Servicios Domésticos
+5200206,Mantas de viaje/frazadas de viaje,0.07,5,0,Muebles. Bienes y Servicios Domésticos
+5200210,Mosquiteros,0.00,5,0,Muebles. Bienes y Servicios Domésticos
+5200288,Colcha/cubrecama/edredón,0.12,5,0,Muebles. Bienes y Servicios Domésticos
+5200304,Toallas,0.07,5,0,Muebles. Bienes y Servicios Domésticos
+5310188,Refrigerador/freezer/congeladora,0.38,5,0,Muebles. Bienes y Servicios Domésticos
+5310288,Lavadora y/o secadora de ropa,0.19,5,0,Muebles. Bienes y Servicios Domésticos
+5310304,Cocina a gas,0.23,5,0,Muebles. Bienes y Servicios Domésticos
+5310305,Horno a gas,0.02,5,0,Muebles. Bienes y Servicios Domésticos
+5310306,Horno microondas,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5310505,Ventilador,0.03,5,0,Muebles. Bienes y Servicios Domésticos
+5320188,Batidora/ licuadora/ sumidora/ exprimidora. etc.,0.09,5,0,Muebles. Bienes y Servicios Domésticos
+5400101,Jarra,0.02,5,0,Muebles. Bienes y Servicios Domésticos
+5400104,Vaso / copa,0.02,5,0,Muebles. Bienes y Servicios Domésticos
+5400105,Vajilla completa (porcelana. cerámica),0.00,5,0,Muebles. Bienes y Servicios Domésticos
+5400188,Tazas (plástico. porcelana. cerámica. peltre. vidrio),0.00,5,0,Muebles. Bienes y Servicios Domésticos
+5400288,Platos (plástico. porcelana. cerámica. peltre. vidrio),0.00,5,0,Muebles. Bienes y Servicios Domésticos
+5400301,Ollas/cacerolas,0.15,5,0,Muebles. Bienes y Servicios Domésticos
+5400303,Olla a presión,0.00,5,0,Muebles. Bienes y Servicios Domésticos
+5400403,Balde/bañador/bañera,0.03,5,0,Muebles. Bienes y Servicios Domésticos
+5520305,Foco /bombilla tradicional,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5520306,Focos fluorescentes (tubos. focos ahorradores. focos led),0.08,5,0,Muebles. Bienes y Servicios Domésticos
+5520320,Cargador de celular,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5520321,Control remoto para TV. DVD y otros,0.00,5,0,Muebles. Bienes y Servicios Domésticos
+5520323,Audífonos para celular,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5520388,Pilas (tradicionales. alcalinas. recargables),0.03,5,0,Muebles. Bienes y Servicios Domésticos
+5610102,Ambientador,0.09,5,0,Muebles. Bienes y Servicios Domésticos
+5610109,Desinfectantes,0.02,5,0,Muebles. Bienes y Servicios Domésticos
+5610111,Insecticida,0.06,5,0,Muebles. Bienes y Servicios Domésticos
+5610112,Jabón,0.19,5,0,Muebles. Bienes y Servicios Domésticos
+5610113,Lavandina,0.12,5,0,Muebles. Bienes y Servicios Domésticos
+5610118,Detergente para lavar ropa,0.81,5,0,Muebles. Bienes y Servicios Domésticos
+5610119,Detergente líquido saca grasa,0.08,5,0,Muebles. Bienes y Servicios Domésticos
+5610120,Suavizante de ropa,0.03,5,0,Muebles. Bienes y Servicios Domésticos
+5610188,Detergentes para lavar vidrio/porcelana/vajilla,0.19,5,0,Muebles. Bienes y Servicios Domésticos
+5610201,Cepillos de ropa/de limpieza/de calzado,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5610202,Escoba,0.07,5,0,Muebles. Bienes y Servicios Domésticos
+5610203,Esponjas para lavar vajilla,0.07,5,0,Muebles. Bienes y Servicios Domésticos
+5610288,Trapeador o goma para arrastrar agua,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5610303,Servilletas de papel/papel absorbente,0.01,5,0,Muebles. Bienes y Servicios Domésticos
+5610415,Fósforo,0.07,5,0,Muebles. Bienes y Servicios Domésticos
+5610416,Guantes de goma,0.05,5,0,Muebles. Bienes y Servicios Domésticos
+5610488,Bolsas para basura/bolsas plásticas,0.05,5,0,Muebles. Bienes y Servicios Domésticos
+5620101,Empleada doméstica,1.14,5,0,Muebles. Bienes y Servicios Domésticos
+5620108,Niñera,0.10,5,0,Muebles. Bienes y Servicios Domésticos
+5620110,Lavandera,0.05,5,0,Muebles. Bienes y Servicios Domésticos
+6,Salud,3.55,6,1,Salud
+6110101,Antiinfeccioso/antibiótico/antiséptico y antiviral,0.14,6,0,Salud
+6110102,Analgésicos/antigripales/antiespasmódicos,0.42,6,0,Salud
+6110103,Medicamento para el aparato digestivo/estómago,0.09,6,0,Salud
+6110105,Vitamínico tonificante,0.03,6,0,Salud
+6110106,Antiinflamatorios,0.12,6,0,Salud
+6110108,Medicamento para el corazón,0.04,6,0,Salud
+6110116,Medicamento para la diabetes,0.09,6,0,Salud
+6110122,Medicamento para el reumatismo y artritis,0.00,6,0,Salud
+6110125,Ungüentos/pomadas,0.03,6,0,Salud
+6110126,Jarabes/brebajes,0.26,6,0,Salud
+6110145,Bicarbonato de sodio,0.01,6,0,Salud
+6110164,Medicamentos tradicionales/naturales,0.07,6,0,Salud
+6110166,Para la presión arterial (antihipertensivos),0.13,6,0,Salud
+6110167,Para la fiebre (antipiréticos),0.04,6,0,Salud
+6120104,Botiquín de primeros auxilios,0.09,6,0,Salud
+6130101,Anteojos de corrección,0.18,6,0,Salud
+6130107,Dentadura postiza/dientes artificiales,0.04,6,0,Salud
+6210101,Consulta médica general,0.20,6,0,Salud
+6210102,Consulta oftalmólogo,0.05,6,0,Salud
+6210105,Otras consultas especializadas,0.18,6,0,Salud
+6220101,Servicio de dentista (extracción. curación),0.54,6,0,Salud
+6230101,Laboratorios clínicos,0.22,6,0,Salud
+6230102,Diagnóstico por imagen,0.17,6,0,Salud
+6300101,Servicio completo de hospitalización,0.39,6,0,Salud
+7,Transporte,9.07,7,1,Transporte
+7110188,Vehículo,0.48,7,0,Transporte
+7120101,Motocicleta,0.15,7,0,Transporte
+7210101,Llanta/ cámara de caucho,0.09,7,0,Transporte
+7220101,Gasolina,1.27,7,0,Transporte
+7220103,Gas Natural Vehicular (GNV),0.10,7,0,Transporte
+7230107,Servicio de cambio de aceite y filtros,0.22,7,0,Transporte
+7230108,Servicio de lavado de vehículos/ engrasado/ fumigado,0.11,7,0,Transporte
+7230109,Servicio de parchado de llantas y aire,0.00,7,0,Transporte
+7230189,Servicio global de mantenimiento de vehículo (mediano. grande),0.13,7,0,Transporte
+7240188,Servicio de estacionamiento/garaje,0.05,7,0,Transporte
+7320101,Transporte en trufi,0.45,7,0,Transporte
+7320102,Transporte en minibús,2.38,7,0,Transporte
+7320103,Transporte en micro. bus o colectivo,1.55,7,0,Transporte
+7320201,Transporte en taxi,1.31,7,0,Transporte
+7320202,Transporte en mototaxi,0.10,7,0,Transporte
+7320203,Transporte en radiotaxi,0.08,7,0,Transporte
+7320301,Transporte interdepartamental en ómnibus/flota,0.17,7,0,Transporte
+7320302,Transporte interprovincial en ómnibus/flota,0.10,7,0,Transporte
+7320401,Transporte escolar,0.06,7,0,Transporte
+7320601,Transporte terrestre internacional,0.08,7,0,Transporte
+7320801,Transporte de teleférico urbano y suburbano,0.04,7,0,Transporte
+7330101,Transporte en avión interdepartamental,0.08,7,0,Transporte
+7330102,Transporte en avión internacional,0.07,7,0,Transporte
+8,Comunicaciones,5.43,8,1,Comunicaciones
+8200102,Aparato telefónico móvil/celular,0.91,8,0,Comunicaciones
+8300201,Servicio de telefonía fija facturada,0.32,8,0,Comunicaciones
+8300302,Tarjetas para teléfono móvil y fijo,2.73,8,0,Comunicaciones
+8300388,Teléfono móvil (llamadas facturadas. planes de pago - post pago),0.80,8,0,Comunicaciones
+8300402,Servicio de Internet a domicilio,0.40,8,0,Comunicaciones
+8300601,Servicio de Internet público,0.06,8,0,Comunicaciones
+8300801,Paquete integrado de Tecnología de Información y Comunicación (TIC),0.22,8,0,Comunicaciones
+9,Recreación y Cultura,6.22,9,1,Recreación y Cultura
+9110101,Televisor,0.84,9,0,Recreación y Cultura
+9110288,Minicomponente o equipo de sonido,0.08,9,0,Recreación y Cultura
+9120101,Cámara fotográfica/digital,0.00,9,0,Recreación y Cultura
+9130188,Computadora/laptop/tablet/impresora/escáner/impresora multifuncional,0.25,9,0,Recreación y Cultura
+9140107,CD/ DVD/ videos/Blue-Ray (pregrabados de música y películas),0.36,9,0,Recreación y Cultura
+9140188,Pen drive/USB. CD o DVD en blanco,0.00,9,0,Recreación y Cultura
+9310103,Triciclos,0.03,9,0,Recreación y Cultura
+9310188,Juegos y juguetes,0.20,9,0,Recreación y Cultura
+9320101,Pelotas/balones deportivos,0.02,9,0,Recreación y Cultura
+9340201,Alimentos para animales domésticos,0.10,9,0,Recreación y Cultura
+9350101,Servicios de veterinaria,0.07,9,0,Recreación y Cultura
+9410102,Piscina,0.11,9,0,Recreación y Cultura
+9410110,Servicio de gimnasios,0.18,9,0,Recreación y Cultura
+9410111,Entrada a ferias y parques de diversión,0.01,9,0,Recreación y Cultura
+9410188,Alquiler de canchas (fútbol. fulbito. wally. etc.),0.04,9,0,Recreación y Cultura
+9420188,Entradas de cine y teatro,0.44,9,0,Recreación y Cultura
+9420301,Servicio de televisión por cable - satelital,1.15,9,0,Recreación y Cultura
+9420407,Alquiler de local para fiestas o festejos (sólo el local o con servicio completo),0.00,9,0,Recreación y Cultura
+9510101,Libros de instrucción escolar y universitaria,0.59,9,0,Recreación y Cultura
+9510188,Atlas/diccionarios/enciclopedias,0.01,9,0,Recreación y Cultura
+9520102,Revistas,0.00,9,0,Recreación y Cultura
+9540188,Productos de papelería (hojas resma. papel bond. cuaderno. etc.),1.25,9,0,Recreación y Cultura
+9540189,Material de escritorio y/o escolar (gomas. lápices. bolígrafos. etc.),0.47,9,0,Recreación y Cultura
+10,Educación,4.07,10,1,Educación
+10100102,Educación preescolar/prekínder/kínder,0.18,10,0,Educación
+10100103,Educación primaria,0.63,10,0,Educación
+10200101,Educación secundaria,0.81,10,0,Educación
+10300101,Educación en carreras cortas en institutos,0.12,10,0,Educación
+10400101,Educación superior universitaria,1.30,10,0,Educación
+10400103,Educación superior post universitaria/diplomado,0.06,10,0,Educación
+10400104,Educación superior post universitaria/maestría,0.23,10,0,Educación
+10400107,Matricula educación superior universitaria,0.19,10,0,Educación
+10500102,Enseñanza de idiomas,0.18,10,0,Educación
+10500103,Escuelas deportivas,0.15,10,0,Educación
+10500116,Capacitación en temas de informática,0.12,10,0,Educación
+10500188,Cursos de música/canto/baile/danza,0.12,10,0,Educación
+11,Alimentos y Bebidas Consumidos Fuera del Hogar,13.95,11,1,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110101,Almuerzo,5.73,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110102,Cena,0.45,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110201,Plato a base de pescado,0.20,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110204,Churrasco,0.06,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110205,Chicharrón,0.47,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110208,Expendio de otro plato extra/especial,2.17,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110309,Pollo al espiedo/brasa,1.38,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110310,Api. tojorí. tujuré con o sin buñuelo. pastel. etc.,0.04,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110311,Pizza,0.16,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110312,Salteña,0.50,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110313,Tucumana/empanada frita,0.24,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110314,Sándwich,0.12,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110315,Hamburguesa,0.29,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110316,Hot dog/panchos,0.02,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110317,Salchipapas,0.14,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110318,Asaditos,0.03,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110320,Sopa de fideo,0.04,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110321,Anticuchos,0.01,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110322,Rellenos,0.08,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110323,Jugo de quinua. avena con leche. arroz con leche y otros similares,0.00,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110401,Desayuno,0.38,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110502,Humintas/tamales,0.00,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110701,Cerveza,0.18,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110702,Chicha,0.02,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110801,Gaseosa,0.51,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110802,Jugo de vegetales/frutas,0.28,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110803,Chicha no alcohólica,0.00,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110806,Batidos,0.02,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110807,Refrescos hervidos no alcohólicos,0.31,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110811,Ensalada de frutas,0.05,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+11110812,Helado,0.06,11,0,Alimentos y Bebidas Consumidos Fuera del Hogar
+12,Bienes y Servicios Diversos,7.55,12,1,Bienes y Servicios Diversos
+12110101,Corte de cabello y/o peinado,0.66,12,0,Bienes y Servicios Diversos
+12110102,Servicio de salón de belleza,0.09,12,0,Bienes y Servicios Diversos
+12110103,Manicura /pedicura,0.08,12,0,Bienes y Servicios Diversos
+12110201,Sauna,0.07,12,0,Bienes y Servicios Diversos
+12110204,Ducha pública,0.02,12,0,Bienes y Servicios Diversos
+12110205,Baño publico,0.06,12,0,Bienes y Servicios Diversos
+12130106,Máquinas de afeitar/rasurar (metálica o descartable),0.17,12,0,Bienes y Servicios Diversos
+12130110,Cepillo de dientes,0.17,12,0,Bienes y Servicios Diversos
+12130188,Peine. cepillo para cabello,0.01,12,0,Bienes y Servicios Diversos
+12130201,Champú en frasco,0.63,12,0,Bienes y Servicios Diversos
+12130202,Champú en cojines/sachet,0.09,12,0,Bienes y Servicios Diversos
+12130204,Crema de enjuague capilar,0.17,12,0,Bienes y Servicios Diversos
+12130207,Pasta dental,0.38,12,0,Bienes y Servicios Diversos
+12130209,Enjuague bucal,0.04,12,0,Bienes y Servicios Diversos
+12130212,Jabón de tocador/jaboncillo,0.28,12,0,Bienes y Servicios Diversos
+12130301,Fijador de cabello,0.02,12,0,Bienes y Servicios Diversos
+12130303,Crema para la piel (manos y/o cuerpo),0.21,12,0,Bienes y Servicios Diversos
+12130304,Productos de maquillaje para el rostro,0.14,12,0,Bienes y Servicios Diversos
+12130305,Desodorante/antitranspirante,0.42,12,0,Bienes y Servicios Diversos
+12130306,Perfume/colonia/loción,1.08,12,0,Bienes y Servicios Diversos
+12130307,Protector solar/bronceadores,0.15,12,0,Bienes y Servicios Diversos
+12130308,Esmalte para uñas (cutex)/quitaesmalte,0.00,12,0,Bienes y Servicios Diversos
+12130310,Crema para el rostro,0.16,12,0,Bienes y Servicios Diversos
+12130403,Papel higiénico,0.72,12,0,Bienes y Servicios Diversos
+12130404,Toallas sanitarias/higiénicas,0.24,12,0,Bienes y Servicios Diversos
+12130406,Pañuelos y toallas de papel,0.01,12,0,Bienes y Servicios Diversos
+12130407,Pañales desechables para bebé,0.61,12,0,Bienes y Servicios Diversos
+12130409,Toallitas húmedas,0.07,12,0,Bienes y Servicios Diversos
+12320107,Mochila,0.24,12,0,Bienes y Servicios Diversos
+12320111,Fundas para celular/portacelular,0.01,12,0,Bienes y Servicios Diversos
+12320401,Lentes y/o gafas de sol,0.03,12,0,Bienes y Servicios Diversos
+12320403,Paraguas,0.01,12,0,Bienes y Servicios Diversos
+12320602,Artículos para cultura y costumbres,0.01,12,0,Bienes y Servicios Diversos
+12400107,Servicio de guarderías,0.11,12,0,Bienes y Servicios Diversos
+12530101,Seguro relacionado con la salud,0.07,12,0,Bienes y Servicios Diversos
+12540101,Seguro relacionado con el transporte,0.09,12,0,Bienes y Servicios Diversos
+12700101,Servicios de asesoramiento jurídico,0.05,12,0,Bienes y Servicios Diversos
+12700103,Gastos en pompas fúnebres y en otros servicios de funerales,0.04,12,0,Bienes y Servicios Diversos
+12700105,Pago por fotocopias y otras reproducciones de documentos,0.06,12,0,Bienes y Servicios Diversos
+12700106,Emisión de certificados,0.04,12,0,Bienes y Servicios Diversos
+12700108,Roseta de inspección vehicular,0.01,12,0,Bienes y Servicios Diversos
+12700110,Cédula de Identidad (CI)/pasaporte,0.02,12,0,Bienes y Servicios Diversos
+12700113,Servicios religiosos,0.00,12,0,Bienes y Servicios Diversos
